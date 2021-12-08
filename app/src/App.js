@@ -63,7 +63,7 @@ const App = () => {
       <div className="container">
         <div className="header-container">
           <p className="header">🥟 Dim Sum Drop</p>
-          <p className="sub-text">are you hungry for some dim dim sum ❤️️? </p>
+          <p className="sub-text">dim dim sum with my gang❤️️? </p>
           {!walletAddress && renderNotConnectedContainer()}
         </div>
         {walletAddress && <CandyMachine walletAddress={window.solana} />}
