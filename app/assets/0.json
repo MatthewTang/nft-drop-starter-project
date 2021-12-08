@@ -1,0 +1,24 @@
+
+{
+    "name": "ha kau",
+    "symbol": "hk",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "collection": {
+        "name": "dim sum nft",
+        "family": "dim sum"
+     },
+      "creators": [
+        {
+          "address": "DQDVM5VnnANUWaGHoJ7hwqoGg9dq3znXr9gysad3fZC8",
+          "share": 100
+        }
+      ]
+    }
+  }
